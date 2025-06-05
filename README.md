@@ -149,3 +149,5 @@ The original model below is U2++ Conforemr
 Thanks to [wenet](https://github.com/wenet-e2e/wenet/blob/main/README.md) for providing tools and pre-trained models.
 
 ## Citation
+
+Fang, Yangui, et al. "Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction." arXiv preprint arXiv:2505.24347 (2025).
